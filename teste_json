@@ -91,6 +91,32 @@
       "address": "Rua Abrão Júlio Rahe, 563 / 1601, Centro, 79010-010, Campo Grande, Mato Grosso do Sul, Região Centro-Oeste, Brasil",
       "phone": "67 33018182",
       "database_name": "estantevirtual"
+    },
+    {
+      "id": "21127343338",
+      "email": "marceloamaral@mpms.mp.br",
+      "ip_address": "",
+      "username": "",
+      "password": "",
+      "hashed_password": "5607761a5b2986f0b6cbf5a175f3e61b19af2fd9:111ce262",
+      "name": "Marcelo Amaral xxxx",
+      "vin": "",
+      "address": "Rua Abrão Júlio Rahe, 563 / 1601, Centro, 79010-010, Campo Grande, Mato Grosso do Sul, Região Centro-Oeste, Brasil",
+      "phone": "67 33018182",
+      "database_name": "xxxipcasasa"
+    },
+    {
+      "id": "21127343338",
+      "email": "diogomotta@mpms.mp.br",
+      "ip_address": "",
+      "username": "",
+      "password": "",
+      "hashed_password": "5607761a5b2986f0b6cbf5a175f3e61b19af2fd9:111ce262",
+      "name": "Diogo Banzer XXXX",
+      "vin": "",
+      "address": "Rua Abrão Júlio Rahe, 563 / 1601, Centro, 79010-010, Campo Grande, Mato Grosso do Sul, Região Centro-Oeste, Brasil",
+      "phone": "67 33018182",
+      "database_name": "passmmkkiixxxx"
     }
   ],
   "success": true,
